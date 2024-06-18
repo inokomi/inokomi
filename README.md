@@ -1,12 +1,10 @@
-<!-- Top section with the image -->
+<!-- top section  -->
 
+![Header](nora.gif)
 <div style="width: 100%; overflow: hidden;">
-  <img src="nora.gif" alt="Animated GIF" style="width: 100%;">
+  <h3>hi, i'm kath</h3>
+  <p>i like to work with robots.</p>
 </div>
-<!-- intro -->
-### hi, i'm kath
-
-i like to work with robots.
 
 ### Connect with Me
 
