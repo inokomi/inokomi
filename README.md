@@ -1,6 +1,6 @@
 <!-- top section  -->
 
-![Header](nora.gif)
+![Header](nora.webp)
 <div style="width: 100%; overflow: hidden;">
   <h3>hi, i'm kath</h3>
   <p>i like to work with robots.</p>
