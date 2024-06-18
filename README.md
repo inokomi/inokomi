@@ -6,16 +6,11 @@
   <h3>hi, i'm kath</h3>
 </div>
 
-<center>
+<div align="center"> 
 
-i like to work with robots.
+<p>> i like to work with robots. <br>> connect with me?</p>
 
------
-
-  connect with me?
-
-
-[linkedin](https://www.linkedin.com/in/katherine-valerio-2514241a2/)
-
+[linkedin](https://www.linkedin.com/in/katherine-valerio-2514241a2/)<br>
 [my website](https://inokomi.github.io)
 
+</div>
