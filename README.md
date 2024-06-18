@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- Top section with the image -->
+<div align="center">
+  <img src="nora.gif"" alt="Animated GIF">
+</div>
 
-<!--
-**inokomi/inokomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- intro -->
+### hi, i'm kath
 
-Here are some ideas to get you started:
+i like to work with robots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/katherine-valerio-2514241a2/)](https://www.linkedin.com/in/katherine-valerio-2514241a2/)
+
+[![My Website](https://img.shields.io/badge/-Website-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://inokomi.github.io)](https://inokomi.github.io)
+
