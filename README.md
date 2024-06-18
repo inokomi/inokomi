@@ -1,8 +1,8 @@
 <!-- Top section with the image -->
-<div align="center">
-  <img src="nora.gif"" alt="Animated GIF">
-</div>
 
+<div style="width: 100%; overflow: hidden;">
+  <img src="nora.gif" alt="Animated GIF" style="width: 100%;">
+</div>
 <!-- intro -->
 ### hi, i'm kath
 
