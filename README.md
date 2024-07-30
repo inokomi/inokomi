@@ -8,7 +8,7 @@
 
 <div align="center"> 
 
-<p>> i like to work with robots. <br>> connect with me?</p>
+<p>> i like to work with design. <br>> connect with me?</p>
 
 [linkedin](https://www.linkedin.com/in/katherine-valerio-2514241a2/)<br>
 [my website](https://inokomi.github.io)
